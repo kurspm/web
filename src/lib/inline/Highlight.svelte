@@ -1,0 +1,1 @@
+<span class="bg-yellow-300/30 dark:bg-yellow-700/30"><slot /></span>

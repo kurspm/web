@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "DM Sans", sans-serif;
+  }
+  a {
+    @apply text-teal-700 hover:bg-teal-200/50 dark:text-teal-300 dark:hover:bg-teal-800/50 transition-colors underline
+  }
+  h1 {
+    @apply text-2xl leading-none font-bold
+  }
+  p {
+    @apply text-stone-700 dark:text-zinc-300
+  }
+  .text-oled, b, h1, h2, h3 {
+    @apply text-black dark:text-white
+  }
+  svg {
+    display: inline;
+  }
+  
+}
+
+/* svelte-toc */
+:root {
+  --toc-active-bg: #0d948822;
+  --toc-active-border: #0d9488 1px solid;
+  --toc-active-border-width: 0 0 0 2px;
+  --toc-active-border-radius: 0;
+
+  --toc-li-hover-color: #0d9488;
+
+  --toc-li-padding: 3pt 5pt;
+
+  --toc-padding: 1rem 1rem 0 2rem;
+}
+
+aside.toc > nav > .toc-title { /* svelte-toc */
+  font-weight: bold;
+  font-size: .85rem;
+  margin-bottom: .25rem;
+}
