@@ -49,6 +49,18 @@
 
 <Heading>Om kursen</Heading>
 
+<Paragraph>
+  Kursen är uppdelad i 6 moduler:
+  <OList>
+    <li>Satslogik</li>
+    <li>Prolog</li>
+    <li>Predikatlogik</li>
+    <li>Rekursion</li>
+    <li>CTL</li>
+    <li>Hoare-logik</li>
+  </OList>
+</Paragraph>
+
 <SubHeading><InlineIcon><BookCheck /></InlineIcon> Examination</SubHeading>
 
 <Paragraph>
@@ -56,15 +68,15 @@
 </Paragraph>
 
 <Paragraph>
-  Kursen går igenom områden <b>satslogik</b>, <b>Prolog</b>, <b>predikatlogik</b>, <b>rekursion</b>, <b>CTL</b> och <b>Hoare-logik</b>, med 1 quiz i varje område. Till varje quiz får man 30 minuter att besvara tre frågor som ger totalt 10 poäng. Minst 6 poäng krävs för godkänt.
+  Varje modul i kursen innehåller en quiz, som sker digitalt på Canvas. Till varje quiz får man begränsad tid att besvara tre frågor som ger totalt 10 poäng. Minst 6 poäng krävs för godkänt.
 </Paragraph>
 
 <Paragraph>
-  Det finns 4 hemtal (frivilliga inlämningsuppgifter) som ger en bonuspoäng till motsvarande quiz i området. De 3 labbarna har också varsin deadline som ger en bonuspoäng på samma sätt.
+  Det finns 4 hemtal (frivilliga inlämningsuppgifter) som ger en bonuspoäng till motsvarande quiz i modulen. De 3 labbarna har också varsin deadline som ger en bonuspoäng på samma sätt.
 </Paragraph>
 
 <Paragraph>
-  I varje kursomgång får man 2 försök på varje quiz och hemtenta. Omquiz och omhemtenta sker då på vårterminen. Allra sista tillfället för att redovisa labbar & mästarprov är på <OutLink href="https://www.kth.se/social/group/labbvecka/">Labbveckan</OutLink> i slutet av året.
+  Under varje kursomgång får man två försök på varje quiz och hemtenta. Omquiz och omhemtenta sker då på vårterminen. Allra sista tillfället för att redovisa labbar är på <OutLink href="https://www.kth.se/social/group/labbvecka/">Labbveckan</OutLink> i slutet av året.
 </Paragraph>
 
 <!--<Paragraph>

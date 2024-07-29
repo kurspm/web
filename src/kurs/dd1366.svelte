@@ -52,14 +52,24 @@
 
 <Heading>Om kursen</Heading>
 
+<Paragraph>
+  Kursen är uppdelad i 4 moduler:
+  <OList>
+    <li>Funktionell programmering (F)</li>
+    <li>Paradigm (X)</li>
+    <li>Syntax (S)</li>
+    <li>Webbprogrammering (W)</li>
+  </OList>
+</Paragraph>
+
 <SubHeading><InlineIcon><BookCheck /></InlineIcon> Examination</SubHeading>
 
 <Paragraph>
-  Kursens examination består av 9 labbar och 3 mästarprov. Bland dessa labbar är <b>F2</b>, <b>S1</b>, <b>S2</b> och <b>W1</b> obligatoriska, medan <b>F3</b>, <b>S3</b>, <b>X1</b> och <b>X2</b> är betygshöjande (+1 betygsteg per labb färdigt innan respektive deadline).
+  Kursens examination består av 9 datorlabbar och 3 mästarprov. Bland dessa labbar är <b>F2</b>, <b>S1</b>, <b>S2</b> och <b>W1</b> obligatoriska, medan <b>F3</b>, <b>S3</b>, <b>X1</b> och <b>X2</b> är betygshöjande (+1 betygsteg per labb färdigt innan respektive deadline).
 </Paragraph>
 
 <Paragraph>
-  Mästarproven är obligatoriska och berör ämnena <b>funktionell programmering (F)</b>, <b>paradigm (X)</b> och <b>syntax (S)</b>. Efter uppgifterna släpps har man 2-3 veckor på sig att lösa dem och göra en skriftlig inlämning. Sedan måste man boka en tid med en assistent/lärare för att göra en muntlig redovisning.
+  De första tre modulerna har varsin obligatorisk mästarprov. Efter uppgifterna släpps har man 2-3 veckor på sig att lösa dem och göra en skriftlig inlämning. Sedan måste man boka en tid med en assistent/lärare för att göra en muntlig redovisning.
 </Paragraph>
 
 <Paragraph>
@@ -67,7 +77,7 @@
 </Paragraph>
 
 <Paragraph>
-  I varje kursomgång får man 2 försök på varje mästarprov, dock så gäller inte bonusdatumet på ommästarprovet. Allra sista tillfället för att redovisa labbar & mästarprov är på <OutLink href="https://www.kth.se/social/group/labbvecka/">Labbveckan</OutLink> i slutet av året.
+  Under varje kursomgång får man två försök på varje mästarprov, dock så gäller inte bonusdatumet på ommästarprovet. Allra sista tillfället för att redovisa labbar & mästarprov är på <OutLink href="https://www.kth.se/social/group/labbvecka/">Labbveckan</OutLink> i slutet av året.
 </Paragraph>
 
 <SubHeading><InlineIcon><Handshake /></InlineIcon> Grupparbete</SubHeading>
