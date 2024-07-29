@@ -18,11 +18,7 @@
 <title>{data.kod.toUpperCase()} - kurs.pm</title>
 
 <div class="w-full">
-  <CourseTitle>
-    <span slot="kurskod">{data.kod.toUpperCase()}</span>
-    <span slot="förkortning">{data.förkortning}</span>
-    {@html data.namn}
-  </CourseTitle>
+  <CourseTitle {...data} />
   <div class="flex flex-row">
     <main class="w-full max-w-[39rem]">
       <svelte:component this={kurs} />
