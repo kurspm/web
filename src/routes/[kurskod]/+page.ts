@@ -16,6 +16,9 @@ export const load: PageLoad = ({ params }) => {
       case 'dd1351':
         kurs = import('$kurs/dd1351.svelte');
         break;
+      case 'me1010':
+        kurs = import('$kurs/me1010.svelte');
+        break;
     }
 
 		return {

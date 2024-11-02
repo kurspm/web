@@ -7,6 +7,7 @@
   const iconTable = {
     'kth': 'https://www.kth.se/student/kurser/kurs/static/icon/favicon',
     'canvas': 'https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico',
+    'quizlet': 'https://assets.quizlet.com/_next/static/media/q-twilight.e27821d9.png',
   }
 
   let favicon = iconTable[icon as keyof typeof iconTable] ? iconTable[icon as keyof typeof iconTable] : icon;
