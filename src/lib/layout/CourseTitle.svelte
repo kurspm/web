@@ -14,7 +14,7 @@
     </div>
     {@html namn}
   </h1>
-  <a href={`https://github.com/kurspm/kurspm/blob/main/src/kurs/${kod}.svelte`} target="_blank" class="no-underline mb-4 md:mb-0">
+  <a href={`https://github.com/kurspm/web/blob/main/src/kurs/${kod}.svelte`} target="_blank" class="no-underline mb-4 md:mb-0">
     <PencilLine /> Redigera sidan på GitHub
   </a>
 </div>
